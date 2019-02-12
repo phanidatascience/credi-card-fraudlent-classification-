@@ -6,5 +6,5 @@
 - we use cnn algorithm  for  the classification  of two classes 
 - even we got 99 percentage  of accuracy   testing  dataset and training data set  we cant go with it  we need to consider confusion matrix and  classification report to find out other  values with  may  descibes the model and  data set  results
 - even  implementing  cnn algorithm we got  true negative  value high   which effects  higher on the  identifying of  fraudlent  class customer 
-- so we  considered  smote  over smapling method to reduce the true negative value  and increase the classification  accuracy  of true positve and true negative values  
+- so we  considered  smote  over sampling method to reduce the true negative value  and increase the classification  accuracy  of true positve and true negative values  
 
