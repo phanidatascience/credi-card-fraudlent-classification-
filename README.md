@@ -1,4 +1,4 @@
-# credi-card-fraudlent-classification-
+# credi-card-fraudlent-classification :
 - credit card is a product for  many banks . the bank need to  find  the  correct customer   and avoid fraudlent  to prevent from fraud  customers 
 - the acuuracy must be high to avoid the fraudlent  as on which basis the banking provides  credit card  to customers 
 - In our dataset we considered the class  which is dependent on different features /variables  and give the customer is  good customer or fraudlent 
